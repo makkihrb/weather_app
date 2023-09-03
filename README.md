@@ -9,6 +9,10 @@
 - Hourly temperature forecast for the next 20 hours
 - Responsive design for a seamless experience on various devices
 
+## Live Demo
+
+Preview : https://meteo24.vercel.app/
+
 ## Technologies Used
 
 - **React.js**: A JavaScript library for building user interfaces
